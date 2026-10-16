@@ -44,63 +44,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Diffbot](https://www.diffbot.com/)**  
-
-  **The pioneer of AI-powered web extraction**—uses computer vision and NLP to read pages like a human, returning clean structured JSON without rules or per-site configuration . **Extract API** handles articles, products, images, videos, discussions, events, lists, and jobs automatically . **Knowledge Graph** exports entity records (25 credits each) and facet queries (100 credits) . **Pricing**: Free tier (10,000 credits/month), Startup at $299/month (250,000 credits), Plus at $899/month (1M credits) .
-
-
-
-- **[Apify](https://apify.com/)**  
-
-  **The largest platform for web data and AI tools** with 6,000+ ready-made Actors . **Actors** are serverless cloud programs that take JSON input, run scraping tasks, and store results in datasets . **AGI (Agent General Interface)** enables autonomous AI agents to use and pay for Actors via x402/MPP without account setup . Every Actor page has a `.md` variant for AI agent consumption .
-
-
-
-- **[Bright Data](https://brightdata.com/)**  
-
-  **The most comprehensive proxy and scraping infrastructure** with 400M+ IPs, 1000+ pre-built scrapers, and 99.99% uptime . **AI Scraper Studio** generates self-healing scraping APIs from plain English prompts—describe data needs, AI generates scraper, one-click Self-Healing fixes breakage . **Pricing from $1/1000 page loads** . Includes MCP Server for AI systems and datasets marketplace .
-
-
-
-- **[Oxylabs](https://oxylabs.io/)**  
-
-  Enterprise proxy network and **Web Scraper API** with three integration methods: **Realtime** (synchronous), **Push-Pull** (asynchronous, batch-capable, recommended for large volumes), and **Proxy Endpoint** . **OxyCopilot (Beta)** simplifies onboarding and parsing without coding . TTL set at 150 seconds for all API connections .
-
-
-
-- **[Zyte](https://www.zyte.com/)**  
-
-  Managed data extraction from the **Scrapinghub** team. **Standard plan** at $500/month for AI-supported data types (eCommerce, Articles, SERP) with standardized schemas and predefined crawl frequency . **Custom plan** from $1,000/month with full crawl control, 24/7 enterprise support, and delivery to preferred cloud platforms .
-
-
-
-- **[Crawlbase](https://crawlbase.com/)**  
-
-  **Crawling API and Scraper API** with Python wrapper (`pip install crawlbase`). Supports **Crawling API** (GET/POST, JavaScript rendering), **Scraper API** (structured data from Amazon), **Leads API** (email leads from domains), and **Screenshots API** . `cb_status` preferred over deprecated `pc_status` .
-
-
-
-- **[Octoparse](https://www.octoparse.com/)**  
-
-  **No-code web data extraction** for analysts and operations teams. Visual workflow builder with **Auto-Detect** that identifies fields and pagination automatically . Runs locally or in cloud, exports to CSV/Excel/JSON/Google Sheets/databases . **Not a hosted API**—tasks are workflows you define, navigate, extract, clean, and export .
-
-
-
-- **[Import.io](https://www.import.io/)**  
-
-  **Acquired by Neuralogics (October 2025)** . Launched **Aperture** (March 2026) as an AI-native pricing intelligence platform—autonomous extraction, AI-driven validation, and adaptive monitoring with **~80% reduction in operational cost base** . Traditional web data integration platform for converting unstructured web data to structured format .
-
-
-
-- **[Scrapinghub](https://scrapinghub.com/)**  
-
-  **The company behind Zyte**—founded 2010 in Cork, Ireland . Provides managed data extraction services and the Scrapy cloud platform. Competitors include Import.io, ScrapingBee, and Apify .
-
-
-
-- **[ParseHub](https://www.parsehub.com/)**  
-
-  **Visual web scraper** with click-to-select interface, multi-page traversal, scheduling, and RESTful API . Exports to CSV, JSON, and Excel-friendly formats. **Ideal for non-developers** needing scraped data without learning code .
+| Product | Company Size / Valuation | Starting Pricing | Free Tier / Trial Limits | Key Features & Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Oxylabs](https://oxylabs.io/)** | **$3.6B Valuation** (~$350M ARR) | **$49/mo** (Micro plan, ~98k results) | **Free trial**: 2,000 results (no credit card required) | Enterprise proxy network & Web Scraper API with Realtime, Push-Pull, and Proxy endpoints; includes OxyCopilot AI assistant. |
+| **[Bright Data](https://brightdata.com/)** | **>$1.0B Valuation** (~$300M+ ARR) | **$0.75 / 1,000 records** (pay-as-you-go) | **Free tier**: 5,000 credits/records per month (renews monthly, no credit card required) | 400M+ IPs, 1,000+ pre-built scrapers, AI Scraper Studio with automated self-healing scrapers, and MCP server support. |
+| **[Diffbot](https://www.diffbot.com/)** | **>$100M Valuation** (~$3M–$5M ARR) | **$299/mo** (Startup plan, 250,000 credits) | **Free tier**: 10,000 credits per month | Computer vision and NLP extraction without manual rules; Extract API for articles, products, and discussions; Knowledge Graph. |
+| **[Import.io](https://www.import.io/)** | **$50M–$100M Valuation** (Acquired by Neuralogics) | **$199/mo** (Standard plan, 50,000 queries/mo) | **Free trial**: 30 days & 5,000 queries (no credit card required) | AI-native pricing intelligence platform and Aperture engine with automated extraction, validation, and adaptive monitoring. |
+| **[Zyte](https://www.zyte.com/)** *(Scrapinghub)* | **$25M ARR** (Privately held, creator of Scrapy) | **$0.13 / 1,000 requests** (HTTP) / **$500/mo** (Managed standard) | **Free trial**: 30 days & $5 free usage credit | Managed data extraction by the creators of Scrapy, Zyte API with anti-bot bypass, automated data models, and Scrapy Cloud. |
+| **[Apify](https://apify.com/)** | **$15M–$25M Valuation** (~$7.5M–$14M ARR) | **$19/mo** (Starter plan with $19 prepaid usage) | **Free tier**: $5 prepaid platform usage credit per month (up to 16 GB Actor RAM, resets monthly) | Serverless cloud platform with 6,000+ ready-to-use Actors, dataset storage, and Agent General Interface (AGI) via x402/MPP. |
+| **[Octoparse](https://www.octoparse.com/)** | **~$5.7M ARR** (Privately held) | **$83/mo** (Standard plan billed annually) | **Free tier**: Free forever (up to 10 tasks, unlimited pages locally, 10,000 rows/export, 50,000 rows/mo) | Visual no-code desktop scraper with Auto-Detect workflow builder, local crawling, and export to CSV/Excel/JSON. |
+| **[Crawlbase](https://crawlbase.com/)** | **~$2.9M ARR** (Bootstrapped) | **$3.00 / 1,000 requests** (Pay-as-you-go) | **Free trial**: 1,000 free requests on signup (scales to 5,000 upon onboarding, no credit card required) | All-in-one Crawling & Scraper API, JavaScript rendering support, Leads API, Screenshots API, and Python SDK. |
+| **[ParseHub](https://www.parsehub.com/)** | **~$1M–$2.6M ARR** (Bootstrapped) | **$189/mo** (Standard plan, 20 private projects) | **Free tier**: Free forever (up to 5 public projects, 200 pages per run, 14-day data retention) | Visual desktop web scraper with click-to-select point-and-click UI, client-side IP rotation, and REST API. |
 
 
 
