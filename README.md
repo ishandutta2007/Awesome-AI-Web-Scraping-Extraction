@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Web-Scraping-Extraction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Web-Scraping-Extraction?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Web-Scraping-Extraction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Web-Scraping-Extraction?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Web-Scraping-Extraction/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Web-Scraping-Extraction?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Web-Scraping-Extraction/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Web-Scraping-Extraction?style=flat-square&color=blue" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Web-Scraping-Extraction/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
@@ -70,51 +70,51 @@ The global web data extraction, web crawling, and proxy infrastructure market is
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub stars ⭐. Each tool includes direct repository metrics, primary architecture, and strategic use cases.
+Sorted in descending order by GitHub_Stars ⭐. Each tool includes direct repository metrics, primary architecture, and strategic use cases.
 
-- **[Firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers) 🔥  
+- **[Firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers) 🔥  
   **The leading open-source web data interface converting full websites into LLM-ready markdown** (AGPL-3.0). **The most widely adopted tool for AI/RAG data pipelines**—powers the Firecrawl API service and is fully self-hostable. Features **crawl, scrape, map, and search** endpoints with automated sub-page discovery.
 
-- **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers) 🌐  
+- **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers) 🌐  
   **Autonomous web scraping and agent navigation framework** (MIT). Enables AI agents to interact with any website using multi-modal LLMs (GPT-4o, Claude 3.5 Sonnet), clicking buttons, entering data, navigating pagination, and extracting complex nested structures.
 
-- **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) 🎭  
+- **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) 🎭  
   **Modern headless browser automation and web testing framework** (Apache-2.0). **Native JavaScript rendering** with built-in auto-waiting, network interception, and execution across Chromium, Firefox, and WebKit in Python, Node.js, Java, and .NET.
 
-- **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) 🎪  
+- **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) 🎪  
   **Direct Chrome & Chromium automation via the Chrome DevTools Protocol (CDP)** (Apache-2.0). Provides fine-grained control over headless browser instances, PDF generation, screenshot capture, and single-page app (SPA) DOM hydration.
 
-- **[Crawl4AI](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers) 🚀  
+- **[Crawl4AI](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers) 🚀  
   **Open-source LLM-friendly web crawler and data extractor** (Apache-2.0 with attribution clause). **Purpose-built for AI/RAG ingestion pipelines**—delivers blazing-fast speed, adaptive crawling, heuristics-based chunking, CSS selector extraction, and clean Markdown generation.
 
-- **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers) 🕷️  
+- **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers) 🕷️  
   **The battle-tested standard for large-scale structured web crawls in Python** (BSD-3-Clause). High-throughput asynchronous crawling engine with built-in pipelines, extensible middleware, spider management, and native integration with `scrapy-playwright`.
 
-- **[Changedetection.io](https://github.com/dgtlmoon/changedetection.io)** [![GitHub stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white)](https://github.com/dgtlmoon/changedetection.io/stargazers) 🔔  
+- **[Changedetection.io](https://github.com/dgtlmoon/changedetection.io)** [![GitHub_Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white)](https://github.com/dgtlmoon/changedetection.io/stargazers) 🔔  
   **Self-hosted change monitoring and web scraping alert engine** (Apache-2.0). Tracks web page modifications, price drops, restocks, and content updates with visual diffing, JSON filtering, and automated webhook dispatch.
 
-- **[Selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers) 🧭  
+- **[Selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub_Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers) 🧭  
   **The foundational cross-browser automation suite** (Apache-2.0). Widest browser and language compatibility matrix available—powering cross-platform WebDriver integration across Python, Java, C#, Ruby, and JavaScript.
 
-- **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** [![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social&color=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers) 🧠  
+- **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social&color=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers) 🧠  
   **Python scraper using LLM graph pipelines to automate extraction** (MIT). Describe what information you need in natural language, and the LLM builds and executes multi-step graph pipelines without manual CSS or XPath selectors.
 
-- **[Crawlee](https://github.com/apify/crawlee)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers) 📦  
+- **[Crawlee](https://github.com/apify/crawlee)** [![GitHub_Stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers) 📦  
   **Production-grade web scraping and browser automation library for Node.js and Python** (Apache-2.0). Built-in request queues, automatic proxy management, session pools, fingerprint rotation, and headless browser orchestration.
 
-- **[AutoScraper](https://github.com/alirezamika/autoscraper)** [![GitHub stars](https://img.shields.io/github/stars/alirezamika/autoscraper?style=social&color=white)](https://github.com/alirezamika/autoscraper/stargazers) 🔮  
+- **[AutoScraper](https://github.com/alirezamika/autoscraper)** [![GitHub_Stars](https://img.shields.io/github/stars/alirezamika/autoscraper?style=social&color=white)](https://github.com/alirezamika/autoscraper/stargazers) 🔮  
   **Smart, lightweight, and automatic Python web scraper** (MIT). Automatically learns extraction rules and patterns given sample target values or URLs, minimizing manual selector authoring.
 
-- **[Puppeteer-Extra](https://github.com/berstend/puppeteer-extra)** [![GitHub stars](https://img.shields.io/github/stars/berstend/puppeteer-extra?style=social&color=white)](https://github.com/berstend/puppeteer-extra/stargazers) 🥷  
+- **[Puppeteer-Extra](https://github.com/berstend/puppeteer-extra)** [![GitHub_Stars](https://img.shields.io/github/stars/berstend/puppeteer-extra?style=social&color=white)](https://github.com/berstend/puppeteer-extra/stargazers) 🥷  
   **Modular plugin framework for Puppeteer and Playwright** (MIT). Home of `puppeteer-extra-plugin-stealth`—the industry-standard stealth engine to avoid headless browser detection and anti-bot challenges.
 
-- **[Apache Nutch](https://github.com/apache/nutch)** [![GitHub stars](https://img.shields.io/github/stars/apache/nutch?style=social&color=white)](https://github.com/apache/nutch/stargazers) 🐘  
+- **[Apache Nutch](https://github.com/apache/nutch)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/nutch?style=social&color=white)](https://github.com/apache/nutch/stargazers) 🐘  
   **Highly extensible, enterprise-grade distributed web crawler** (Apache-2.0). Built on top of Apache Hadoop data structures for planet-scale web indexing and enterprise search engines.
 
-- **[Grab](https://github.com/lorien/grab)** [![GitHub stars](https://img.shields.io/github/stars/lorien/grab?style=social&color=white)](https://github.com/lorien/grab/stargazers) 🏎️  
+- **[Grab](https://github.com/lorien/grab)** [![GitHub_Stars](https://img.shields.io/github/stars/lorien/grab?style=social&color=white)](https://github.com/lorien/grab/stargazers) 🏎️  
   **High-performance Python web scraping and crawling framework** (MIT). Features a customizable network core, Spider multi-threaded crawling framework, and built-in proxy pool handling.
 
-- **[Web Scraper Extension](https://github.com/webs/scraper)** [![GitHub stars](https://img.shields.io/github/stars/webs/scraper?style=social&color=white)](https://github.com/webs/scraper/stargazers) 🧩  
+- **[Web Scraper Extension](https://github.com/webs/scraper)** [![GitHub_Stars](https://img.shields.io/github/stars/webs/scraper?style=social&color=white)](https://github.com/webs/scraper/stargazers) 🧩  
   **Point-and-click browser extension for extracting data directly within Chrome** (Open-Core). Allows non-technical operators to build sitemaps, handle pagination, and export clean CSV datasets locally.
 
 - **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** 🍲  
